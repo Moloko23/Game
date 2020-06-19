@@ -1,0 +1,1 @@
+text = "Murder is a terrible sin. Don't take this weapon";
